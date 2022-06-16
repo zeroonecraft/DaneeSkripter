@@ -1,7 +1,7 @@
-- Do you want to see what I did today? Check my [devnotes](https://github.com/DaneeSkripter/devnotes) repository.
- # MeLearning Repos
-- This repositories is for me, when I am learning new language :)
-- https://github.com/DaneeSkripter/MeLearningPython
-- https://github.com/DaneeSkripter/MeLearningCSharp
+# 💖 Welcome!
+- Hello my nickname is **DaneeSkripter**, my favorite language is **JavaScript**, but also sometimes I'm programming in **CSharp**.
+- Do you looking for some cheap hosting for your discord bot? I own one hosting, it's completely free you can [check it!](https://dishost.xyz/)
+- If you want to support me: <a href='https://ko-fi.com/X7X1ACSSW' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
+# Some Basic Stats
 ![Metrics](/github-metrics.svg)
