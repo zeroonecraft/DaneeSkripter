@@ -5,6 +5,3 @@
 
 ## Contact me: 
 ![](https://discord.c99.nl/widget/theme-1/525704336869687316.png)
-
-## Some Basic Stats
-![Metrics](/github-metrics.svg)
